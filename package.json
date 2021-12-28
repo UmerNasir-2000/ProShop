@@ -1,0 +1,23 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/UmerNasir-2000/ProShop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmerNasir-2000/ProShop/issues"
+  },
+  "homepage": "https://github.com/UmerNasir-2000/ProShop#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

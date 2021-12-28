@@ -7,7 +7,7 @@ import products from "../products";
 const ProductPage = () => {
   let params = useParams();
   const product = products.find((product) => product._id === params.product_id);
-  console.log(product);
+
   return (
     <>
       <Link className="btn btn-dark my-3" to="/">
